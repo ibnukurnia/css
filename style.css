@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: blueviolet;
+  color: white;
+}
+
+.container {
+  padding: 20px 50px;
+}
+
+.section-2 {
+  background-color: blue;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table,
+td,
+th {
+  background-color: purple;
+  border: 1px solid white;
+}
